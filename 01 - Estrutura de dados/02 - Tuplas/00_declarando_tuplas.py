@@ -23,3 +23,6 @@ matriz = (
     (6, 5, "c"),
 )
 print(matriz)
+
+contador = frutas2.count("maça")
+print(contador)
