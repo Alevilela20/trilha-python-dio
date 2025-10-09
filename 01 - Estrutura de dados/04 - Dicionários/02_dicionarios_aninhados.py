@@ -7,3 +7,7 @@ contatos = {
 
 telefone = contatos["giovanna@gmail.com"]["telefone"]  # "3443-2121"
 print(telefone)
+
+
+extra = contatos ["melaine@gmail.com"]["telefone"]
+print(extra)
